@@ -2694,4 +2694,304 @@ readers do not read off random characters that represent icons */
                               
                               .fa-receipt:before {
                                 content: "\f543"; }
-                                                                                                                                
+
+                                .fa-recycle:before {
+                                    content: "\f1b8"; }
+                                  
+                                  .fa-red-river:before {
+                                    content: "\f3e3"; }
+                                  
+                                  .fa-reddit:before {
+                                    content: "\f1a1"; }
+                                  
+                                  .fa-reddit-alien:before {
+                                    content: "\f281"; }
+                                  
+                                  .fa-reddit-square:before {
+                                    content: "\f1a2"; }
+                                  
+                                  .fa-redo:before {
+                                    content: "\f01e"; }
+                                  
+                                  .fa-redo-alt:before {
+                                    content: "\f2f9"; }
+                                  
+                                  .fa-registered:before {
+                                    content: "\f25d"; }
+                                  
+                                  .fa-rendact:before {
+                                    content: "\f3e4"; }
+                                  
+                                  .fa-renren:before {
+                                    content: "\f18b"; }
+                                  
+                                  .fa-reply:before {
+                                    content: "\f3e5"; }
+                                  
+                                  .fa-reply-all:before {
+                                    content: "\f122"; }
+                                  
+                                  .fa-replyd:before {
+                                    content: "\f3e6"; }
+                                  
+                                  .fa-researchgate:before {
+                                    content: "\f4f8"; }
+                                  
+                                  .fa-resolving:before {
+                                    content: "\f3e7"; }
+                                  
+                                  .fa-retweet:before {
+                                    content: "\f079"; }
+                                  
+                                  .fa-rev:before {
+                                    content: "\f5b2"; }
+                                  
+                                  .fa-ribbon:before {
+                                    content: "\f4d6"; }
+                                  
+                                  .fa-road:before {
+                                    content: "\f018"; }
+                                  
+                                  .fa-robot:before {
+                                    content: "\f544"; }
+                                  
+                                  .fa-rocket:before {
+                                    content: "\f135"; }
+                                  
+                                  .fa-rocketchat:before {
+                                    content: "\f3e8"; }
+                                  
+                                  .fa-rockrms:before {
+                                    content: "\f3e9"; }
+                                  
+                                  .fa-route:before {
+                                    content: "\f4d7"; }
+                                  
+                                  .fa-rss:before {
+                                    content: "\f09e"; }
+                                  
+                                  .fa-rss-square:before {
+                                    content: "\f143"; }
+                                  
+                                  .fa-ruble-sign:before {
+                                    content: "\f158"; }
+                                  
+                                  .fa-ruler:before {
+                                    content: "\f545"; }
+                                  
+                                  .fa-ruler-combined:before {
+                                    content: "\f546"; }
+                                  
+                                  .fa-ruler-horizontal:before {
+                                    content: "\f547"; }
+                                  
+                                  .fa-ruler-vertical:before {
+                                    content: "\f548"; }
+                                  
+                                  .fa-rupee-sign:before {
+                                    content: "\f156"; }
+                                  
+                                  .fa-sad-cry:before {
+                                    content: "\f5b3"; }
+                                  
+                                  .fa-sad-tear:before {
+                                    content: "\f5b4"; }
+                                  
+                                  .fa-safari:before {
+                                    content: "\f267"; }
+                                  
+                                  .fa-sass:before {
+                                    content: "\f41e"; }
+                                  
+                                  .fa-save:before {
+                                    content: "\f0c7"; }
+                                  
+                                  .fa-schlix:before {
+                                    content: "\f3ea"; }
+                                  
+                                  .fa-school:before {
+                                    content: "\f549"; }
+                                  
+                                  .fa-screwdriver:before {
+                                    content: "\f54a"; }
+                                  
+                                  .fa-scribd:before {
+                                    content: "\f28a"; }
+                                  
+                                  .fa-search:before {
+                                    content: "\f002"; }
+                                  
+                                  .fa-search-dollar:before {
+                                    content: "\f688"; }
+                                  
+                                  .fa-search-location:before {
+                                    content: "\f689"; }
+                                  
+                                  .fa-search-minus:before {
+                                    content: "\f010"; }
+                                  
+                                  .fa-search-plus:before {
+                                    content: "\f00e"; }
+                                  
+                                  .fa-searchengin:before {
+                                    content: "\f3eb"; }
+                                  
+                                  .fa-seedling:before {
+                                    content: "\f4d8"; }
+                                  
+                                  .fa-sellcast:before {
+                                    content: "\f2da"; }
+                                  
+                                  .fa-sellsy:before {
+                                    content: "\f213"; }
+                                  
+                                  .fa-server:before {
+                                    content: "\f233"; }
+                                  
+                                  .fa-servicestack:before {
+                                    content: "\f3ec"; }
+                                  
+                                  .fa-shapes:before {
+                                    content: "\f61f"; }
+                                  
+                                  .fa-share:before {
+                                    content: "\f064"; }
+                                  
+                                  .fa-share-alt:before {
+                                    content: "\f1e0"; }
+                                  
+                                  .fa-share-alt-square:before {
+                                    content: "\f1e1"; }
+                                  
+                                  .fa-share-square:before {
+                                    content: "\f14d"; }
+                                  
+                                  .fa-shekel-sign:before {
+                                    content: "\f20b"; }
+                                  
+                                  .fa-shield-alt:before {
+                                    content: "\f3ed"; }
+                                  
+                                  .fa-ship:before {
+                                    content: "\f21a"; }
+                                  
+                                  .fa-shipping-fast:before {
+                                    content: "\f48b"; }
+                                  
+                                  .fa-shirtsinbulk:before {
+                                    content: "\f214"; }
+                                  
+                                  .fa-shoe-prints:before {
+                                    content: "\f54b"; }
+                                  
+                                  .fa-shopping-bag:before {
+                                    content: "\f290"; }
+                                  
+                                  .fa-shopping-basket:before {
+                                    content: "\f291"; }
+                                  
+                                  .fa-shopping-cart:before {
+                                    content: "\f07a"; }
+                                  
+                                  .fa-shopware:before {
+                                    content: "\f5b5"; }
+                                  
+                                  .fa-shower:before {
+                                    content: "\f2cc"; }
+                                  
+                                  .fa-shuttle-van:before {
+                                    content: "\f5b6"; }
+                                  
+                                  .fa-sign:before {
+                                    content: "\f4d9"; }
+                                  
+                                  .fa-sign-in-alt:before {
+                                    content: "\f2f6"; }
+                                  
+                                  .fa-sign-language:before {
+                                    content: "\f2a7"; }
+                                  
+                                  .fa-sign-out-alt:before {
+                                    content: "\f2f5"; }
+                                  
+                                  .fa-signal:before {
+                                    content: "\f012"; }
+                                  
+                                  .fa-signature:before {
+                                    content: "\f5b7"; }
+                                  
+                                  .fa-simplybuilt:before {
+                                    content: "\f215"; }
+                                  
+                                  .fa-sistrix:before {
+                                    content: "\f3ee"; }
+                                  
+                                  .fa-sitemap:before {
+                                    content: "\f0e8"; }
+                                  
+                                  .fa-sith:before {
+                                    content: "\f512"; }
+                                  
+                                  .fa-skull:before {
+                                    content: "\f54c"; }
+                                  
+                                  .fa-skyatlas:before {
+                                    content: "\f216"; }
+                                  
+                                  .fa-skype:before {
+                                    content: "\f17e"; }
+                                  
+                                  .fa-slack:before {
+                                    content: "\f198"; }
+                                  
+                                  .fa-slack-hash:before {
+                                    content: "\f3ef"; }
+                                  
+                                  .fa-sliders-h:before {
+                                    content: "\f1de"; }
+                                  
+                                  .fa-slideshare:before {
+                                    content: "\f1e7"; }
+                                  
+                                  .fa-smile:before {
+                                    content: "\f118"; }
+                                  
+                                  .fa-smile-beam:before {
+                                    content: "\f5b8"; }
+                                  
+                                  .fa-smile-wink:before {
+                                    content: "\f4da"; }
+                                  
+                                  .fa-smoking:before {
+                                    content: "\f48d"; }
+                                  
+                                  .fa-smoking-ban:before {
+                                    content: "\f54d"; }
+                                  
+                                  .fa-snapchat:before {
+                                    content: "\f2ab"; }
+                                  
+                                  .fa-snapchat-ghost:before {
+                                    content: "\f2ac"; }
+                                  
+                                  .fa-snapchat-square:before {
+                                    content: "\f2ad"; }
+                                  
+                                  .fa-snowflake:before {
+                                    content: "\f2dc"; }
+                                  
+                                  .fa-socks:before {
+                                    content: "\f696"; }
+                                  
+                                  .fa-solar-panel:before {
+                                    content: "\f5ba"; }
+                                  
+                                  .fa-sort:before {
+                                    content: "\f0dc"; }
+                                  
+                                  .fa-sort-alpha-down:before {
+                                    content: "\f15d"; }
+                                  
+                                  .fa-sort-alpha-up:before {
+                                    content: "\f15e"; }
+                                                                                                                                                                  
