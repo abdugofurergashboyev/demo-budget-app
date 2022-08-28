@@ -2094,4 +2094,304 @@ readers do not read off random characters that represent icons */
                       
                       .fa-list-ul:before {
                         content: "\f0ca"; }
-                                                                        
+
+                        .fa-location-arrow:before {
+                            content: "\f124"; }
+                          
+                          .fa-lock:before {
+                            content: "\f023"; }
+                          
+                          .fa-lock-open:before {
+                            content: "\f3c1"; }
+                          
+                          .fa-long-arrow-alt-down:before {
+                            content: "\f309"; }
+                          
+                          .fa-long-arrow-alt-left:before {
+                            content: "\f30a"; }
+                          
+                          .fa-long-arrow-alt-right:before {
+                            content: "\f30b"; }
+                          
+                          .fa-long-arrow-alt-up:before {
+                            content: "\f30c"; }
+                          
+                          .fa-low-vision:before {
+                            content: "\f2a8"; }
+                          
+                          .fa-luggage-cart:before {
+                            content: "\f59d"; }
+                          
+                          .fa-lyft:before {
+                            content: "\f3c3"; }
+                          
+                          .fa-magento:before {
+                            content: "\f3c4"; }
+                          
+                          .fa-magic:before {
+                            content: "\f0d0"; }
+                          
+                          .fa-magnet:before {
+                            content: "\f076"; }
+                          
+                          .fa-mail-bulk:before {
+                            content: "\f674"; }
+                          
+                          .fa-mailchimp:before {
+                            content: "\f59e"; }
+                          
+                          .fa-male:before {
+                            content: "\f183"; }
+                          
+                          .fa-mandalorian:before {
+                            content: "\f50f"; }
+                          
+                          .fa-map:before {
+                            content: "\f279"; }
+                          
+                          .fa-map-marked:before {
+                            content: "\f59f"; }
+                          
+                          .fa-map-marked-alt:before {
+                            content: "\f5a0"; }
+                          
+                          .fa-map-marker:before {
+                            content: "\f041"; }
+                          
+                          .fa-map-marker-alt:before {
+                            content: "\f3c5"; }
+                          
+                          .fa-map-pin:before {
+                            content: "\f276"; }
+                          
+                          .fa-map-signs:before {
+                            content: "\f277"; }
+                          
+                          .fa-markdown:before {
+                            content: "\f60f"; }
+                          
+                          .fa-marker:before {
+                            content: "\f5a1"; }
+                          
+                          .fa-mars:before {
+                            content: "\f222"; }
+                          
+                          .fa-mars-double:before {
+                            content: "\f227"; }
+                          
+                          .fa-mars-stroke:before {
+                            content: "\f229"; }
+                          
+                          .fa-mars-stroke-h:before {
+                            content: "\f22b"; }
+                          
+                          .fa-mars-stroke-v:before {
+                            content: "\f22a"; }
+                          
+                          .fa-mastodon:before {
+                            content: "\f4f6"; }
+                          
+                          .fa-maxcdn:before {
+                            content: "\f136"; }
+                          
+                          .fa-medal:before {
+                            content: "\f5a2"; }
+                          
+                          .fa-medapps:before {
+                            content: "\f3c6"; }
+                          
+                          .fa-medium:before {
+                            content: "\f23a"; }
+                          
+                          .fa-medium-m:before {
+                            content: "\f3c7"; }
+                          
+                          .fa-medkit:before {
+                            content: "\f0fa"; }
+                          
+                          .fa-medrt:before {
+                            content: "\f3c8"; }
+                          
+                          .fa-meetup:before {
+                            content: "\f2e0"; }
+                          
+                          .fa-megaport:before {
+                            content: "\f5a3"; }
+                          
+                          .fa-meh:before {
+                            content: "\f11a"; }
+                          
+                          .fa-meh-blank:before {
+                            content: "\f5a4"; }
+                          
+                          .fa-meh-rolling-eyes:before {
+                            content: "\f5a5"; }
+                          
+                          .fa-memory:before {
+                            content: "\f538"; }
+                          
+                          .fa-menorah:before {
+                            content: "\f676"; }
+                          
+                          .fa-mercury:before {
+                            content: "\f223"; }
+                          
+                          .fa-microchip:before {
+                            content: "\f2db"; }
+                          
+                          .fa-microphone:before {
+                            content: "\f130"; }
+                          
+                          .fa-microphone-alt:before {
+                            content: "\f3c9"; }
+                          
+                          .fa-microphone-alt-slash:before {
+                            content: "\f539"; }
+                          
+                          .fa-microphone-slash:before {
+                            content: "\f131"; }
+                          
+                          .fa-microscope:before {
+                            content: "\f610"; }
+                          
+                          .fa-microsoft:before {
+                            content: "\f3ca"; }
+                          
+                          .fa-minus:before {
+                            content: "\f068"; }
+                          
+                          .fa-minus-circle:before {
+                            content: "\f056"; }
+                          
+                          .fa-minus-square:before {
+                            content: "\f146"; }
+                          
+                          .fa-mix:before {
+                            content: "\f3cb"; }
+                          
+                          .fa-mixcloud:before {
+                            content: "\f289"; }
+                          
+                          .fa-mizuni:before {
+                            content: "\f3cc"; }
+                          
+                          .fa-mobile:before {
+                            content: "\f10b"; }
+                          
+                          .fa-mobile-alt:before {
+                            content: "\f3cd"; }
+                          
+                          .fa-modx:before {
+                            content: "\f285"; }
+                          
+                          .fa-monero:before {
+                            content: "\f3d0"; }
+                          
+                          .fa-money-bill:before {
+                            content: "\f0d6"; }
+                          
+                          .fa-money-bill-alt:before {
+                            content: "\f3d1"; }
+                          
+                          .fa-money-bill-wave:before {
+                            content: "\f53a"; }
+                          
+                          .fa-money-bill-wave-alt:before {
+                            content: "\f53b"; }
+                          
+                          .fa-money-check:before {
+                            content: "\f53c"; }
+                          
+                          .fa-money-check-alt:before {
+                            content: "\f53d"; }
+                          
+                          .fa-monument:before {
+                            content: "\f5a6"; }
+                          
+                          .fa-moon:before {
+                            content: "\f186"; }
+                          
+                          .fa-mortar-pestle:before {
+                            content: "\f5a7"; }
+                          
+                          .fa-mosque:before {
+                            content: "\f678"; }
+                          
+                          .fa-motorcycle:before {
+                            content: "\f21c"; }
+                          
+                          .fa-mouse-pointer:before {
+                            content: "\f245"; }
+                          
+                          .fa-music:before {
+                            content: "\f001"; }
+                          
+                          .fa-napster:before {
+                            content: "\f3d2"; }
+                          
+                          .fa-neos:before {
+                            content: "\f612"; }
+                          
+                          .fa-neuter:before {
+                            content: "\f22c"; }
+                          
+                          .fa-newspaper:before {
+                            content: "\f1ea"; }
+                          
+                          .fa-nimblr:before {
+                            content: "\f5a8"; }
+                          
+                          .fa-nintendo-switch:before {
+                            content: "\f418"; }
+                          
+                          .fa-node:before {
+                            content: "\f419"; }
+                          
+                          .fa-node-js:before {
+                            content: "\f3d3"; }
+                          
+                          .fa-not-equal:before {
+                            content: "\f53e"; }
+                          
+                          .fa-notes-medical:before {
+                            content: "\f481"; }
+                          
+                          .fa-npm:before {
+                            content: "\f3d4"; }
+                          
+                          .fa-ns8:before {
+                            content: "\f3d5"; }
+                          
+                          .fa-nutritionix:before {
+                            content: "\f3d6"; }
+                          
+                          .fa-object-group:before {
+                            content: "\f247"; }
+                          
+                          .fa-object-ungroup:before {
+                            content: "\f248"; }
+                          
+                          .fa-odnoklassniki:before {
+                            content: "\f263"; }
+                          
+                          .fa-odnoklassniki-square:before {
+                            content: "\f264"; }
+                          
+                          .fa-oil-can:before {
+                            content: "\f613"; }
+                          
+                          .fa-old-republic:before {
+                            content: "\f510"; }
+                          
+                          .fa-om:before {
+                            content: "\f679"; }
+                          
+                          .fa-opencart:before {
+                            content: "\f23d"; }
+                          
+                          .fa-openid:before {
+                            content: "\f19b"; }
+                          
+                          .fa-opera:before {
+                            content: "\f26a"; }
+                                                                                                  
